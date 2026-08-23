@@ -1,5 +1,11 @@
 # Multi-Layer Institutional Capital Operating System (MICOS-25)
 
+## The Institutional Architecture Playbook
+
+**Version:** 1.0  
+**Build Date:** 2026-02-13 
+**Status:** Completed
+
 ---
 
 # **CHAPTER 1 — OWNERSHIP STRUCTURE**
