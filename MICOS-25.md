@@ -1,3 +1,7 @@
+# Multi-Layer Institutional Capital Operating System (MICOS-25)
+
+---
+
 # **CHAPTER 1 — OWNERSHIP STRUCTURE**
 
 ---
