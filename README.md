@@ -4,8 +4,11 @@
 ### The Institutional Architecture Playbook
 
 **Version:** 1.0  
-**Date:** 2026-08-23  
-**Status:** Initial Publication
+**README Last Update:** 2026-08-25  
+**Status:** 
+
+- **Framework**: _Complete_
+- **Book**: _Ongoing_
 
 ---
 
