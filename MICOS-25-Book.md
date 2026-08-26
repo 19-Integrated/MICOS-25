@@ -40,7 +40,7 @@
 ### Chapter 1 — Ownership Structure
 
 [Chapter Introduction](#chapter-introduction)
-- [1. Strategic Function](#strategic-function)
+- [1. Strategic Function](#1-strategic-function)
 - [2. Scope Boundary](#2-scope-boundary)
 - [3. Dependency Position](#3-dependency-position)
 - [4. Failure Modes](#4-failure-modes)
