@@ -99,20 +99,58 @@
 - [2. Scope Boundary](#2-scope-boundary-1)
 - [3. Dependency Position](#3-dependency-position-1)
 - [4. Failure Modes](#4-failure-modes-1)
-
-5. Design Principles
-6. Structural Components
-7. Architecture Patterns
-8. Governance Control Matrix
-9. Implementation Sequence
-10. Stress Testing Framework
-11. Bankability & Institutional Test
-12. Red Flags
-13. Documentation Checklist
-14. MICOS Scorecard
-15. Chapter Conclusion
-16. Chapter Addendum: Cross-References
-17. Chapter Addendum: Case Study References
+  - [Failure Mode: Founder Autocracy Without Oversight](#failure-mode-founder-autocracy-without-oversight)
+  - [Failure Mode: Board Captured by Majority Shareholder](#failure-mode-board-captured-by-majority-shareholder)
+  - [Failure Mode: Independent Directors Lacking Independence](#failure-mode-independent-directors-lacking-independence)
+  - [Failure Mode: Undefined Reserved Matters](#failure-mode-undefined-reserved-matters)
+  - [Failure Mode: Supermajority Paralysis](#failure-mode-supermajority-paralysis)
+  - [Failure Mode: Committee Redundancy](#failure-mode-committee-redundancy)
+  - [Failure Mode: No CEO Removal Mechanism](#failure-mode-no-ceo-removal-mechanism)
+  - [Failure Mode: Overlapping Board/Management Authority](#failure-mode-overlapping-boardmanagement-authority)
+  - [Failure Mode: Excessive Veto Layering](#failure-mode-excessive-veto-layering)
+  - [Failure Mode: Regulatory Non-Compliance](#failure-mode-regulatory-non-compliance)
+- [5. Design Principles](#5-design-principles-1)
+  - [Principle 1: Authority Must Be Clearly Tiered](#principle-1-authority-must-be-clearly-tiered)
+  - [Principle 2: Board and Management Roles Must Be Non-Overlapping](#principle-2-board-and-management-roles-must-be-non-overlapping)
+  - [Principle 3: Oversight Must Be Independent of Executive Control](#principle-3-oversight-must-be-independent-of-executive-control)
+  - [Principle 4: Reserved Matters Must Be Finite and Documented](#principle-4-reserved-matters-must-be-finite-and-documented)
+  - [Principle 5: Deadlock Must Be Structurally Resolvable](#principle-5-deadlock-must-be-structurally-resolvable)
+  - [Principle 6: Conflict-of-Interest Rules Must Be Formalized](#principle-6-conflict-of-interest-rules-must-be-formalized)
+  - [Principle 7: Governance Must Scale with Capital Complexity](#principle-7-governance-must-scale-with-capital-complexity)
+  - [Principle 8: Decision Rights Must Align with Risk Exposure](#principle-8-decision-rights-must-align-with-risk-exposure)
+  - [Principle 9: Governance Must Be Legible to External Stakeholders](#principle-9-governance-must-be-legible-to-external-stakeholders)
+  - [Principle 10: Information Asymmetry Must Be Structurally Prevented](#principle-10-information-asymmetry-must-be-structurally-prevented)
+- [6. Structural Components](#6-structural-components-1)
+  - [Core Governance Instruments](#core-governance-instruments)
+  - [Governance Mapping Tools](#governance-mapping-tools)
+- [7. Architecture Patterns](#7-architecture-patterns-1)
+  - [Pattern 1: Founder-Controlled Board](#pattern-1-founder-controlled-board)
+  - [Pattern 2: Independent Majority Board](#pattern-2-independent-majority-board)
+  - [Pattern 3: Investor-Dominated Board](#pattern-3-investor-dominated-board)
+  - [Pattern 4: Two-Tier Board (Supervisory + Management)](#pattern-4-two-tier-board-supervisory--management)
+  - [Pattern 5: Committee-Heavy Institutional Model](#pattern-5-committee-heavy-institutional-model)
+  - [Pattern 6: Advisory Board Overlay](#pattern-6-advisory-board-overlay)
+  - [Pattern 7: State-Influenced Governance Model](#pattern-7-state-influenced-governance-model)
+  - [Pattern 8: Family Council + Corporate Board Hybrid](#pattern-8-family-council--corporate-board-hybrid)
+  - [Pattern 9: Public Company Governance Stack](#pattern-9-public-company-governance-stack)
+  - [Pattern 10: Joint Venture Equal-Control Model](#pattern-10-joint-venture-equal-control-model)
+  - [Pattern 11: Observer-Seat Governance](#pattern-11-observer-seat-governance)
+  - [Pattern 12: Professionalized CEO + Passive Owners Model](#pattern-12-professionalized-ceo--passive-owners-model)
+- [8. Governance Control Matrix](#8-governance-control-matrix)
+- [9. Implementation Sequence](#9-implementation-sequence-1)
+- [10. Stress Testing Framework](#10-stress-testing-framework-1)
+- [11. Bankability & Institutional Test](#11-bankability--institutional-test-1)
+- [12. Red Flags](#12-red-flags-1)
+- [13. Documentation Checklist](#13-documentation-checklist-1)
+- [14. MICOS Governance Scorecard](#14-micos-governance-scorecard)
+  - [A. Authority Architecture](#a-authority-architecture)
+  - [B. Oversight Integrity](#b-oversight-integrity)
+  - [C. Operational Clarity](#c-operational-clarity)
+  - [D. Institutional Durability](#d-institutional-durability-1)
+  - [Maturity Rating](#maturity-rating-1)
+- [Chapter Conclusion](#chapter-conclusion)
+- [Chapter Addendum: Cross-References](#chapter-2-addendum-cross-references-1)
+- [Chapter Addendum: Case Study References](#chapter-2-addendum-case-study-references-1)
 
 ### Chapter 3 — Capital Structure
 1. Strategic Function
