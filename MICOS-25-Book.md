@@ -31,11 +31,11 @@
 
 ## LAYER 1 — STRUCTURAL FOUNDATION (Existence)
 
-### Layer 1 Introduction
-- The Logic of Layer 1
-- The Bankability Standard
-- What Happens If Layer 1 Is Weak?
-- Layer 1 to Layer 2 Transition
+### [Layer 1 Introduction](#layer-1-introduction)
+- [The Logic of Layer 1](#the-logic-of-layer-1)
+- [The Bankability Standard](#the-bankability-standard)
+- [What Happens If Layer 1 Is Weak?](#what-happens-if-layer-1-is-weak)
+- [Layer 1 to Layer 2 Transition](#layer-1-to-layer-2-transition)
 
 ### Chapter 1 — Ownership Structure
 1. Strategic Function
