@@ -40,10 +40,10 @@
 ### Chapter 1 — Ownership Structure
 
 [Chapter Introduction](#chapter-introduction)
-1. [Strategic Function](#strategic-function-1)
-2. [Scope Boundary](#scope-boundary-1)
-3. [Dependency Position](#dependency-position-1)
-4. [Failure Modes](#failure-modes-1)
+- [1. Strategic Function](#strategic-function)
+- [2. Scope Boundary](#2-scope-boundary)
+- [3. Dependency Position](#3-dependency-position)
+- [4. Failure Modes](#4-failure-modes)
     - [Failure Mode: 50/50 Deadlock](#failure-mode-5050-deadlock)
     - [Failure Mode: Hidden Veto Powers](#failure-mode-hidden-veto-powers)
     - [Failure Mode: Founder Dependence Without Succession](#failure-mode-founder-dependence-without-succession)
