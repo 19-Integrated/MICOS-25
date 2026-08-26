@@ -59,15 +59,36 @@
   - [Principle 8: Ownership Must Be Legible to Financiers (Bankability Principle)](#principle-8-ownership-must-be-legible-to-financiers-bankability-principle)
   - [Principle 9: Share Pledgeability Must Not Destabilize Control](#principle-9-share-pledgeability-must-not-destabilize-control)
   - [Principle 10: No Circular Ownership Structures](#principle-10-no-circular-ownership-structures)
-6. Structural Components
-7. Architecture Patterns
-8. Control Matrix
-9. Implementation Sequence
-10. Stress Testing Framework
-11. Bankability & Institutional Test
-12. Red Flags
-13. Documentation Checklist
-14. MICOS Scorecard
+- [6. Structural Components](#6-structural-components)
+  - [Core Instruments](#core-instruments)
+  - [Structural Mapping](#structural-mapping)
+- [7. Architecture Patterns](#7-architecture-patterns)
+  - [Pattern 1: Single-Control Majority](#pattern-1-single-control-majority)
+  - [Pattern 2: Dual-Class Control Separation](#pattern-2-dual-class-control-separation)
+  - [Pattern 3: HoldCo–OpCo Split](#pattern-3-holdcoopco-split)
+  - [Pattern 4: Founder-to-Institution Transition](#pattern-4-founder-to-institution-transition)
+  - [Pattern 5: Strategic Anchor Shareholder](#pattern-5-strategic-anchor-shareholder)
+  - [Pattern 6: State–Private Hybrid](#pattern-6-stateprivate-hybrid)
+  - [Pattern 7: Trust-Based Continuity](#pattern-7-trust-based-continuity)
+  - [Pattern 8: Synthetic Liquidity Pattern](#pattern-8-synthetic-liquidity-pattern)
+  - [Pattern 9: Employee / Management Ownership (ESOP)](#pattern-9-employee--management-ownership-esop)
+  - [Pattern 10: Cooperative Ownership (One-Member-One-Vote)](#pattern-10-cooperative-ownership-one-member-one-vote)
+  - [Pattern 11: Mission-Lock / Benefit Corporation Model](#pattern-11-mission-lock--benefit-corporation-model)
+  - [Pattern 12: Family Dynasty Structure](#pattern-12-family-dynasty-structure)
+  - [Pattern 13: Private Equity Control Stack](#pattern-13-private-equity-control-stack)
+  - [Pattern 14: Widely Held Public Float](#pattern-14-widely-held-public-float)
+- [8. Control Matrix](#8-control-matrix)
+- [9. Implementation Sequence](#9-implementation-sequence)
+- [10. Stress Testing Framework](#10-stress-testing-framework)
+- [11. Bankability & Institutional Test](#11-bankability--institutional-test)
+- [12. Red Flags](#12-red-flags)
+- [13. Documentation Checklist](#13-documentation-checklist)
+- [14. MICOS Ownership Scorecard](#14-micos-ownership-scorecard)
+  - [A. Structural Integrity](#a-structural-integrity)
+  - [B. Control Clarity](#b-control-clarity)
+  - [C. Exit & Continuity](#c-exit--continuity)
+  - [D. Institutional Durability](#d-institutional-durability)
+  - [Maturity Rating](#maturity-rating)
 15. Chapter Conclusion
 16. Chapter Addendum: Cross-References
 17. Chapter Addendum: Case Study References
