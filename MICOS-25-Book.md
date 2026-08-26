@@ -19,7 +19,7 @@
 ---
 
 ## INTRODUCTION
-- The Problem: Institutional Fragility
+- [The Problem: Institutional Fragility](#The-Problem-Institutional-Fragility)
 - The Solution: MICOS-25
 - How This Book Is Organized
 - Who Should Read This Book
