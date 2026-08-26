@@ -31,7 +31,7 @@
 
 ## LAYER 1 — STRUCTURAL FOUNDATION (Existence)
 
-### [Layer 1 Introduction](#layer-1-introduction)
+### [Layer Overview](#layer-overview)
 - [The Logic of Layer 1](#the-logic-of-layer-1)
 - [The Bankability Standard](#the-bankability-standard)
 - [What Happens If Layer 1 Is Weak?](#what-happens-if-layer-1-is-weak)
