@@ -89,9 +89,9 @@
   - [C. Exit & Continuity](#c-exit--continuity)
   - [D. Institutional Durability](#d-institutional-durability)
   - [Maturity Rating](#maturity-rating)
-15. Chapter Conclusion
-16. Chapter Addendum: Cross-References
-17. Chapter Addendum: Case Study References
+- [Chapter Conclusion](#chapter-conclusion)
+- [Chapter Addendum: Cross-References](#chapter-addendum-cross-references)
+- [Chapter Addendum: Case Study References](#chapter-addendum-case-study-references)
 
 ### Chapter 2 — Governance Structure
 1. Strategic Function
