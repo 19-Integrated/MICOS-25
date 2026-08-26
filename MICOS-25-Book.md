@@ -149,8 +149,8 @@
   - [D. Institutional Durability](#d-institutional-durability-1)
   - [Maturity Rating](#maturity-rating-1)
 - [Chapter Conclusion](#chapter-conclusion)
-- [Chapter Addendum: Cross-References](#chapter-2-addendum-cross-references-1)
-- [Chapter Addendum: Case Study References](#chapter-2-addendum-case-study-references-1)
+- [Chapter Addendum: Cross-References](#chapter-addendum-cross-references-1)
+- [Chapter Addendum: Case Study References](#chapter-addendum-case-study-references-1)
 
 ### Chapter 3 — Capital Structure
 1. Strategic Function
