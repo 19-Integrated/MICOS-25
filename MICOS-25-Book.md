@@ -94,12 +94,12 @@
 - [Chapter Addendum: Case Study References](#chapter-addendum-case-study-references)
 
 ### Chapter 2 — Governance Structure
-- [Chapter Introduction](#chapter-introduction)
+- [Chapter Introduction](#chapter-introduction-1)
 - [1. Strategic Function](#1-strategic-function-1)
+- [2. Scope Boundary](#2-scope-boundary-1)
+- [3. Dependency Position](#3-dependency-position-1)
+- [4. Failure Modes](#4-failure-modes-1)
 
-2. Scope Boundary
-3. Dependency Position
-4. Failure Modes
 5. Design Principles
 6. Structural Components
 7. Architecture Patterns
