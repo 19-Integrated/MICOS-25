@@ -38,10 +38,17 @@
 - [Layer 1 to Layer 2 Transition](#layer-1-to-layer-2-transition)
 
 ### Chapter 1 — Ownership Structure
-1. Strategic Function
-2. Scope Boundary
-3. Dependency Position
-4. Failure Modes
+
+#### [Chapter Introduction](#chapter-introduction)
+
+1. [Strategic Function](#strategic-function)
+2. [Scope Boundary](#scope-boundary)
+3. [Dependency Position](#dependency-position)
+4. [Failure Modes](#failure-modes)
+    - [Failure Mode: 50/50 Deadlock](#failure-mode-5050-deadlock)
+    - [Failure Mode: Hidden Veto Powers](#failure-mode-hidden-veto-powers)
+    - [Failure Mode: Founder Dependence Without Succession](#failure-mode-founder-dependence-without-succession)
+    - [Failure Mode: Exit Blockage](#failure-mode-exit-blockage)
 5. Design Principles
 6. Structural Components
 7. Architecture Patterns
