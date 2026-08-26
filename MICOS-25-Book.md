@@ -31,7 +31,7 @@
 
 ## LAYER 1 — STRUCTURAL FOUNDATION (Existence)
 
-[Layer Overview](#layer-overview)
+- [Layer Overview](#layer-overview)
 - [The Logic of Layer 1](#the-logic-of-layer-1)
 - [The Bankability Standard](#the-bankability-standard)
 - [What Happens If Layer 1 Is Weak?](#what-happens-if-layer-1-is-weak)
@@ -39,7 +39,7 @@
 
 ### Chapter 1 — Ownership Structure
 
-[Chapter Introduction](#chapter-introduction)
+- [Chapter Introduction](#chapter-introduction)
 - [1. Strategic Function](#1-strategic-function)
 - [2. Scope Boundary](#2-scope-boundary)
 - [3. Dependency Position](#3-dependency-position)
@@ -94,7 +94,9 @@
 - [Chapter Addendum: Case Study References](#chapter-addendum-case-study-references)
 
 ### Chapter 2 — Governance Structure
-1. Strategic Function
+- [Chapter Introduction](#chapter-introduction)
+- [1. Strategic Function](#1-strategic-function-1)
+
 2. Scope Boundary
 3. Dependency Position
 4. Failure Modes
