@@ -19,13 +19,13 @@
 ---
 
 ## INTRODUCTION
-- [The Problem: Institutional Fragility](#The-Problem-Institutional-Fragility)
-- The Solution: MICOS-25
-- How This Book Is Organized
-- Who Should Read This Book
-- What This Book Is Not
-- How to Get the Most from This Book
-- The Ultimate Goal: Institutional Permanence
+- [The Problem: Institutional Fragility](#the-problem-institutional-fragility)
+- [The Solution: MICOS-25](#the-solution-micos-25)
+- [How This Book Is Organized](#how-this-book-is-organized)
+- [Who Should Read This Book](#who-should-read-this-book)
+- [What This Book Is Not](#what-this-book-is-not)
+- [How to Get the Most from This Book](#how-to-get-the-most-from-this-book)
+- [The Ultimate Goal: Institutional Permanence](#the-ultimate-goal-institutional-permanence)
 
 ---
 
