@@ -48,7 +48,17 @@
     - [Failure Mode: Hidden Veto Powers](#failure-mode-hidden-veto-powers)
     - [Failure Mode: Founder Dependence Without Succession](#failure-mode-founder-dependence-without-succession)
     - [Failure Mode: Exit Blockage](#failure-mode-exit-blockage)
-5. Design Principles
+- [5. Design Principles](#5-design-principles)
+  - [Principle 1: Control Must Be Explicit and Mathematically Determinable](#principle-1-control-must-be-explicit-and-mathematically-determinable)
+  - [Principle 2: Economic Rights Must Align with Risk Exposure](#principle-2-economic-rights-must-align-with-risk-exposure)
+  - [Principle 3: Deadlock Must Be Structurally Impossible](#principle-3-deadlock-must-be-structurally-impossible)
+  - [Principle 4: All Vetoes Must Be Documented and Limited](#principle-4-all-vetoes-must-be-documented-and-limited)
+  - [Principle 5: Beneficial Ownership Must Be Transparent and Registrable](#principle-5-beneficial-ownership-must-be-transparent-and-registrable)
+  - [Principle 6: Exit Pathways Must Be Pre-Designed](#principle-6-exit-pathways-must-be-pre-designed)
+  - [Principle 7: Succession Must Be Structurally Anticipated](#principle-7-succession-must-be-structurally-anticipated)
+  - [Principle 8: Ownership Must Be Legible to Financiers (Bankability Principle)](#principle-8-ownership-must-be-legible-to-financiers-bankability-principle)
+  - [Principle 9: Share Pledgeability Must Not Destabilize Control](#principle-9-share-pledgeability-must-not-destabilize-control)
+  - [Principle 10: No Circular Ownership Structures](#principle-10-no-circular-ownership-structures)
 6. Structural Components
 7. Architecture Patterns
 8. Control Matrix
