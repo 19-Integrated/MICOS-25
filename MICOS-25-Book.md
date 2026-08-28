@@ -153,23 +153,66 @@
 - [Chapter Addendum: Case Study References](#chapter-addendum-case-study-references-1)
 
 ### Chapter 3 — Capital Structure
-1. Strategic Function
-2. Scope Boundary
-3. Dependency Position
-4. Failure Modes
-5. Design Principles
-6. Structural Components
-7. Architecture Patterns
-8. Capital Priority Matrix
-9. Implementation Sequence
-10. Stress Testing Framework
-11. Bankability & Institutional Test
-12. Red Flags
-13. Documentation Checklist
-14. MICOS Scorecard
-15. Chapter Conclusion
-16. Chapter Addendum: Cross-References
-17. Chapter Addendum: Case Study References
+- [Chapter Introduction](#chapter-introduction-2)
+- [1. Strategic Function](#1-strategic-function-2)
+- [2. Scope Boundary](#2-scope-boundary-2)
+- [3. Dependency Position](#3-dependency-position-2)
+- [4. Failure Modes](#4-failure-modes-2)
+  - [Failure Mode: Over-Leverage Beyond Cashflow Capacity](#failure-mode-over-leverage-beyond-cashflow-capacity)
+  - [Failure Mode: Covenant Breach Cascade](#failure-mode-covenant-breach-cascade)
+  - [Failure Mode: Maturity Wall Concentration](#failure-mode-maturity-wall-concentration)
+  - [Failure Mode: Misaligned Capital Tenor vs. Asset Life](#failure-mode-misaligned-capital-tenor-vs-asset-life)
+  - [Failure Mode: Excessive Cost of Capital](#failure-mode-excessive-cost-of-capital)
+  - [Failure Mode: Hidden Personal Guarantees](#failure-mode-hidden-personal-guarantees)
+  - [Failure Mode: Cross-Default Traps](#failure-mode-cross-default-traps)
+  - [Failure Mode: Equity Dilution Shock](#failure-mode-equity-dilution-shock)
+  - [Failure Mode: Inability to Refinance](#failure-mode-inability-to-refinance)
+  - [Failure Mode: Currency Mismatch](#failure-mode-currency-mismatch)
+  - [Failure Mode: Collateral Over-Pledging](#failure-mode-collateral-over-pledging)
+- [5. Design Principles](#5-design-principles-2)
+  - [Principle 1: Capital Must Match Asset Life](#principle-1-capital-must-match-asset-life)
+  - [Principle 2: Leverage Must Be Serviceable Under Stress](#principle-2-leverage-must-be-serviceable-under-stress)
+  - [Principle 3: Seniority Must Be Unambiguous](#principle-3-seniority-must-be-unambiguous)
+  - [Principle 4: No Maturity Cliffs Without Refinancing Visibility](#principle-4-no-maturity-cliffs-without-refinancing-visibility)
+  - [Principle 5: Downside Protection Must Not Paralyze Upside](#principle-5-downside-protection-must-not-paralyze-upside)
+  - [Principle 6: Cost of Capital Must Be Risk-Adjusted, Not Cosmetic](#principle-6-cost-of-capital-must-be-risk-adjusted-not-cosmetic)
+  - [Principle 7: Liquidity Buffers Must Be Structural, Not Optimistic](#principle-7-liquidity-buffers-must-be-structural-not-optimistic)
+  - [Principle 8: Dilution Must Be Modeled Before Issuance](#principle-8-dilution-must-be-modeled-before-issuance)
+  - [Principle 9: Refinancing Optionality Must Be Preserved](#principle-9-refinancing-optionality-must-be-preserved)
+  - [Principle 10: Collateral Must Not Compromise Operational Control](#principle-10-collateral-must-not-compromise-operational-control)
+  - [Principle 11: Capital Stack Must Be Legible to Future Investors](#principle-11-capital-stack-must-be-legible-to-future-investors)
+- [6. Structural Components](#6-structural-components-2)
+  - [Equity Layer](#equity-layer)
+  - [Debt Layer](#debt-layer)
+  - [Hybrid Instruments](#hybrid-instruments)
+  - [Protection Mechanisms](#protection-mechanisms)
+  - [Liquidity & Stability Tools](#liquidity--stability-tools)
+- [7. Architecture Patterns](#7-architecture-patterns-2)
+  - [Pattern 1: Equity-Heavy Growth Model](#pattern-1-equity-heavy-growth-model)
+  - [Pattern 2: Leveraged Expansion Model](#pattern-2-leveraged-expansion-model)
+  - [Pattern 3: Asset-Backed Financing Model](#pattern-3-asset-backed-financing-model)
+  - [Pattern 4: Project Finance Ring-Fence Model](#pattern-4-project-finance-ring-fence-model)
+  - [Pattern 5: Venture Capital Stack (Preferred-Heavy)](#pattern-5-venture-capital-stack-preferred-heavy)
+  - [Pattern 6: Private Equity Leveraged Buyout Stack](#pattern-6-private-equity-leveraged-buyout-stack)
+  - [Pattern 7: Convertible Bridge-to-Equity Model](#pattern-7-convertible-bridge-to-equity-model)
+  - [Pattern 8: Sovereign Co-Investment Model](#pattern-8-sovereign-co-investment-model)
+  - [Pattern 9: Hybrid Mezzanine Layered Model](#pattern-9-hybrid-mezzanine-layered-model)
+  - [Pattern 10: Recapitalization Model](#pattern-10-recapitalization-model)
+- [8. Capital Priority Matrix](#8-capital-priority-matrix)
+- [9. Implementation Sequence](#9-implementation-sequence-2)
+- [10. Stress Testing Framework](#10-stress-testing-framework-2)
+- [11. Bankability & Institutional Test](#11-bankability--institutional-test-2)
+- [12. Red Flags](#12-red-flags-2)
+- [13. Documentation Checklist](#13-documentation-checklist-2)
+- [14. MICOS Capital Structure Scorecard](#14-micos-capital-structure-scorecard)
+  - [A. Structural Integrity](#a-structural-integrity-1)
+  - [B. Serviceability](#b-serviceability)
+  - [C. Flexibility & Optionality](#c-flexibility--optionality)
+  - [D. Institutional Durability](#d-institutional-durability-2)
+  - [Maturity Rating](#maturity-rating-2)
+- [Chapter 3 Conclusion](#chapter-conclusion-2)
+- [Chapter 3 Addendum: Cross-References](#chapter-addendum-cross-references-2)
+- [Chapter 3 Addendum: Case Study References](#chapter-addendum-case-study-references-2)
 
 ### Chapter 4 — Legal Structure
 1. Strategic Function
