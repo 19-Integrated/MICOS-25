@@ -148,7 +148,7 @@
   - [C. Operational Clarity](#c-operational-clarity)
   - [D. Institutional Durability](#d-institutional-durability-1)
   - [Maturity Rating](#maturity-rating-1)
-- [Chapter Conclusion](#chapter-conclusion)
+- [Chapter Conclusion](#chapter-conclusion-1)
 - [Chapter Addendum: Cross-References](#chapter-addendum-cross-references-1)
 - [Chapter Addendum: Case Study References](#chapter-addendum-case-study-references-1)
 
