@@ -104,11 +104,11 @@
   - [Failure Mode: Independent Directors Lacking Independence](#failure-mode-independent-directors-lacking-independence)
   - [Failure Mode: Undefined Reserved Matters](#failure-mode-undefined-reserved-matters)
   - [Failure Mode: Supermajority Paralysis](#failure-mode-supermajority-paralysis)
-  - [Failure Mode: Committee Redundancy](#failure-mode-committee-redundancy)
+  - Failure Mode: Committee Redundancy
   - [Failure Mode: No CEO Removal Mechanism](#failure-mode-no-ceo-removal-mechanism)
-  - [Failure Mode: Overlapping Board/Management Authority](#failure-mode-overlapping-boardmanagement-authority)
-  - [Failure Mode: Excessive Veto Layering](#failure-mode-excessive-veto-layering)
-  - [Failure Mode: Regulatory Non-Compliance](#failure-mode-regulatory-non-compliance)
+  - Failure Mode: Overlapping Board/Management Authority
+  - Failure Mode: Excessive Veto Layering
+  - Failure Mode: Regulatory Non-Compliance
 - [5. Design Principles](#5-design-principles-1)
   - [Principle 1: Authority Must Be Clearly Tiered](#principle-1-authority-must-be-clearly-tiered)
   - [Principle 2: Board and Management Roles Must Be Non-Overlapping](#principle-2-board-and-management-roles-must-be-non-overlapping)
@@ -162,11 +162,11 @@
   - [Failure Mode: Covenant Breach Cascade](#failure-mode-covenant-breach-cascade)
   - [Failure Mode: Maturity Wall Concentration](#failure-mode-maturity-wall-concentration)
   - [Failure Mode: Misaligned Capital Tenor vs. Asset Life](#failure-mode-misaligned-capital-tenor-vs-asset-life)
-  - [Failure Mode: Excessive Cost of Capital](#failure-mode-excessive-cost-of-capital)
+  - Failure Mode: Excessive Cost of Capital
   - [Failure Mode: Hidden Personal Guarantees](#failure-mode-hidden-personal-guarantees)
-  - [Failure Mode: Cross-Default Traps](#failure-mode-cross-default-traps)
+  - Failure Mode: Cross-Default Traps
   - [Failure Mode: Equity Dilution Shock](#failure-mode-equity-dilution-shock)
-  - [Failure Mode: Inability to Refinance](#failure-mode-inability-to-refinance)
+  - Failure Mode: Inability to Refinance
   - [Failure Mode: Currency Mismatch](#failure-mode-currency-mismatch)
   - [Failure Mode: Collateral Over-Pledging](#failure-mode-collateral-over-pledging)
 - [5. Design Principles](#5-design-principles-2)
